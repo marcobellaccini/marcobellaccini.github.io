@@ -11,7 +11,7 @@ Follow me on [Twitter](https://twitter.com/lasagnasec)!
 
 Take a look at my [GitHub Projects](https://github.com/marcobellaccini)!
 
-You can mail me at: `marco.bellaccini(at!)gmail.com`
+You can mail me at: `marco(at!)bellaccini.it`
 
 ## Biosketch
 I was born in Rome, Italy in 1988.
