@@ -27,6 +27,6 @@ I joined the TV Engineering Department of [RAI](https://www.rai.it/) in October 
 
 I have a strong background in IT security (especially cryptography).
 
-I'm a [GNU](https://en.wikipedia.org/wiki/GNU)/[Linux](https://en.wikipedia.org/wiki/Linux) user since I was 14.
+I'm a [Linux](https://en.wikipedia.org/wiki/Linux) user since I was 14.
 
 I'm an active member of the free-software community and a [greedy RFC reader](https://www.rfc-editor.org/errata/eid5491).
