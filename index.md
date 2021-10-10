@@ -1,9 +1,11 @@
 # Marco Bellaccini
 
-I'm an IT Infrastructure architect at [RAI](https://en.wikipedia.org/wiki/RAI)
+IT Infrastructure architect at [RAI](https://en.wikipedia.org/wiki/RAI)
 (Italian national public broadcasting company).
 
 I design modern, reliable, secure and automated IT systems for Television Production.
+
+I'm also a member of the [EBU Media Cybersecurity groups](https://tech.ebu.ch/groups/mcs).
 
 ## Me on the web
 
