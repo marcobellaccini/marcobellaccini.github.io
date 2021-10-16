@@ -32,3 +32,9 @@ I have a strong background in IT security (especially cryptography).
 I'm a [Linux](https://en.wikipedia.org/wiki/Linux) user since I was 14.
 
 I'm an active member of the free-software community and a [greedy RFC reader](https://www.rfc-editor.org/errata/eid5491).
+
+## File encryption public key
+Here's my [age encryption](https://age-encryption.org/) public key:
+
+age14rquvxxk9j5lq8a0fjyvq83qrrcn6zq89nnha8a99hwyq72ufcyq0fcwgs
+
