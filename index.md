@@ -9,7 +9,7 @@ I'm also a member of the [EBU Media Cybersecurity groups](https://tech.ebu.ch/gr
 
 ## Me on the web
 
-Follow me on [Twitter](https://twitter.com/lasagnasec)!
+Follow me on [Twitter](https://twitter.com/lasagnasec) and [Mastodon](https://infosec.exchange/@lasagnasec)!
 
 Take a look at my [GitHub Projects](https://github.com/marcobellaccini)!
 
