@@ -1,9 +1,9 @@
 # Marco Bellaccini
 
-IT Infrastructure architect at [RAI](https://en.wikipedia.org/wiki/RAI)
+IT Security architect at [RAI](https://en.wikipedia.org/wiki/RAI)
 (Italian national public broadcasting company).
 
-I design modern, reliable, secure and automated IT systems for Television Production.
+I design secure and reliable IT systems for Television Production.
 
 I'm also a member of the [EBU Media Cybersecurity groups](https://tech.ebu.ch/groups/mcs).
 
@@ -25,7 +25,7 @@ My MSc thesis was about Human-Robot-Interaction. The [derived research paper](ht
 
 Then I worked for one year as Research Fellow at [The Biorobotics Institute](https://www.santannapisa.it/en/institute/biorobotics/biorobotics-institute) of [Sant'Anna School of Advanced Studies](https://www.santannapisa.it) in Pontedera (Pisa, Italy).
 
-I joined the TV Engineering Department of [RAI](https://www.rai.it/) in October 2014, where I work as IT Infrastructure architect for TV Production Systems.
+I joined the TV Engineering Department of [RAI](https://www.rai.it/) in October 2014, where I worked for many years as IT Infrastructure architect for TV Production Systems.
 
 I have a strong background in IT security (especially cryptography).
 
